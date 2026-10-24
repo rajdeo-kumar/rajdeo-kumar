@@ -1,6 +1,7 @@
 ## Hi there 👋 I 'm Rajdeo Kumar
 Senior Software Engineer | Technical Lead | Backend & Cloud Engineer
 
+💻 12+ years of software engineering experience
 <!--
 **rajdeo-kumar/rajdeo-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 12+ years of software engineering experience
-☕ Java | Spring Boot | Microservices
-☁️ AWS | Azure | Kubernetes | Docker
-🔄 CI/CD | Jenkins | Terraform | ArgoCD
-📊 PostgreSQL | SQL Server | Oracle | MongoDB
-📨 Kafka | ActiveMQ | Redis
-⚛️ React | REST APIs | Distributed Systems
