@@ -76,6 +76,194 @@ Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ------------------------------------------------------------------------
+## 🏗️ Architecture & Engineering
+``` text
+                    ┌──────────────────────┐
+                    │    Web / Mobile      │
+                    │      Clients         │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │      API Gateway     │
+                    └──────────┬───────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             ▼                 ▼                 ▼
+      ┌────────────┐    ┌────────────┐    ┌────────────┐
+      │ Service A  │    │ Service B  │    │ Service C  │
+      │ Spring Boot│    │ Spring Boot│    │ Spring Boot│
+      └─────┬──────┘    └─────┬──────┘    └─────┬──────┘
+            │                 │                 │
+            └─────────────────┼─────────────────┘
+                              ▼
+                       ┌──────────────┐
+                       │    Kafka     │
+                       │ Event Driven │
+                       └──────┬───────┘
+                              │
+              ┌───────────────┼────────────────┐
+              ▼               ▼                ▼
+        PostgreSQL          Redis          MongoDB
+              │
+              ▼
+       ┌──────────────┐
+       │ AWS / Cloud  │
+       │ Kubernetes   │
+       └──────────────┘
+```
+### Areas of Expertise
+
+- Microservices Architecture
+- REST API Design
+- Event-Driven Architecture
+- Kafka Pub/Sub
+- Distributed Systems
+- System Design
+- Database Optimization
+- API Security
+- JWT / Spring Security
+- CI/CD Pipelines
+- Docker & Kubernetes
+- AWS Cloud Architecture
+- Infrastructure as Code
+- Performance Optimization
+- Production Troubleshooting
+- High-volume data processing
+
+------------------------------------------------------------------------
+
+## 🚀 Featured Projects
+
+### 🔹 Enterprise Microservices Platform
+
+**Java \| Spring Boot \| Kafka \| PostgreSQL \| Docker \| Kubernetes**
+
+- Microservices-based architecture
+- Event-driven communication using Kafka
+- REST API development
+- Database optimization
+- Containerized deployment
+- CI/CD automation
+
+### 🔹 Cloud-Native Application
+
+**Spring Boot \| AWS \| Kubernetes \| Terraform**
+
+- Infrastructure as Code
+- Docker containerization
+- Kubernetes deployment
+- AWS services integration
+- Automated CI/CD pipelines
+
+### 🔹 High-Volume Data Processing
+
+**Java \| Spring Boot \| SQL Server \| Batch Processing**
+
+- Large-scale database processing
+- Batch optimization
+- Bulk insert/update strategies
+- Transaction optimization
+- Memory and performance tuning
+
+### 🔹 Event-Driven Systems
+
+**Kafka \| Spring Boot \| Microservices**
+
+- Producer/consumer architecture
+- Pub/Sub communication
+- Retry and error-handling strategies
+- Asynchronous processing
+- Resilient event-driven workflows
+
+------------------------------------------------------------------------
+
+## ⚡ Engineering Focus
+
+``` text
+☕ Java & Spring Boot
+🏗️ System Design
+🔄 Microservices
+📨 Kafka & Event-Driven Architecture
+☁️ AWS & Cloud
+🐳 Docker & Kubernetes
+🔧 DevOps & CI/CD
+🗄️ Database Optimization
+⚡ Performance Engineering
+🔐 Application Security
+📈 Observability & Monitoring
+```
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Stats
+
+> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
+
+<figure>
+<img
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
+alt="GitHub Stats" />
+<figcaption aria-hidden="true">GitHub Stats</figcaption>
+</figure>
+
+<figure>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+alt="Top Languages" />
+<figcaption aria-hidden="true">Top Languages</figcaption>
+</figure>
+
+------------------------------------------------------------------------
+
+## 🔥 Contribution Streak
+
+<figure>
+<img
+src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;hide_border=true"
+alt="GitHub Streak" />
+<figcaption aria-hidden="true">GitHub Streak</figcaption>
+</figure>
+
+------------------------------------------------------------------------
+
+## 📈 GitHub Activity
+
+<figure>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;theme=tokyo-night&amp;hide_border=true"
+alt="GitHub Activity Graph" />
+<figcaption aria-hidden="true">GitHub Activity Graph</figcaption>
+</figure>
+
+------------------------------------------------------------------------
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/)
+- 📧 Email: your-email@example.com
+- 🌐 Portfolio: [My Portfolio](https://example.com)
+
+------------------------------------------------------------------------
+
+## 💡 Current Learning & Interests
+
+- Advanced System Design
+- Distributed Systems
+- Cloud-Native Architecture
+- Kubernetes & Platform Engineering
+- Terraform & Infrastructure as Code
+- Python
+- React & TypeScript
+- AI / GenAI integration with enterprise applications
+
+------------------------------------------------------------------------
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my projects useful, feel free to ⭐ star the repositories.
+
+**Let’s build scalable and reliable software together. 🚀**
 <!--
 **rajdeo-kumar/rajdeo-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
