@@ -240,8 +240,8 @@ alt="GitHub Activity Graph" />
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/)
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [[Connect with me on LinkedIn](https://www.linkedin.com/)](https://www.linkedin.com/in/rajdeo-kumar-40173132/?isSelfProfile=true)
+- 📧 Email: rajdeo.kumar516@gmail.com
 - 🌐 Portfolio: [My Portfolio](https://example.com)
 
 ------------------------------------------------------------------------
