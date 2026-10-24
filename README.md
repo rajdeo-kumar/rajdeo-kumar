@@ -75,43 +75,21 @@ Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
+### 🤖 GenAI
+
+- Large Language Models (LLMs)
+-  **LLMs** : OpenAI, Azure OpenAI, Anthropic Claude, Gemini
+-  **AI Frameworks** : LangChain, LangGraph
+-  **Vector DB / Search** : PostgreSQL + pgvector, OpenSearch, Elasticsearch
+
+## 🧠 CORE GENAI & AI SKILLS
+
+- Deep Learning, NLP, Computer Vision
+- GenAI (LLMs, RAG pipelines, embeddings, vector search)
+- Prompt engineering & LLM evaluation
+- Model deployment, optimization & inference scaling
+
 ------------------------------------------------------------------------
-## 🏗️ Architecture & Engineering
-``` text
-                    ┌──────────────────────┐
-                    │    Web / Mobile      │
-                    │      Clients         │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │      API Gateway     │
-                    └──────────┬───────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ▼                 ▼                 ▼
-      ┌────────────┐    ┌────────────┐    ┌────────────┐
-      │ Service A  │    │ Service B  │    │ Service C  │
-      │ Spring Boot│    │ Spring Boot│    │ Spring Boot│
-      └─────┬──────┘    └─────┬──────┘    └─────┬──────┘
-            │                 │                 │
-            └─────────────────┼─────────────────┘
-                              ▼
-                       ┌──────────────┐
-                       │    Kafka     │
-                       │ Event Driven │
-                       └──────┬───────┘
-                              │
-              ┌───────────────┼────────────────┐
-              ▼               ▼                ▼
-        PostgreSQL          Redis          MongoDB
-              │
-              ▼
-       ┌──────────────┐
-       │ AWS / Cloud  │
-       │ Kubernetes   │
-       └──────────────┘
-```
 ### Areas of Expertise
 
 - Microservices Architecture
@@ -193,27 +171,6 @@ Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=
 🔐 Application Security
 📈 Observability & Monitoring
 ```
-
-------------------------------------------------------------------------
-
-## 📊 GitHub Stats
-
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
-
-<figure>
-<img
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
-alt="GitHub Stats" />
-<figcaption aria-hidden="true">GitHub Stats</figcaption>
-</figure>
-
-<figure>
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
-alt="Top Languages" />
-<figcaption aria-hidden="true">Top Languages</figcaption>
-</figure>
-
 ------------------------------------------------------------------------
 
 ## 🔥 Contribution Streak
@@ -238,14 +195,6 @@ alt="GitHub Activity Graph" />
 
 ------------------------------------------------------------------------
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/rajdeo-kumar-40173132
-- 📧 Email: rajdeo.kumar516@gmail.com
-- 🌐 Portfolio: [My Portfolio](https://example.com)
-
-------------------------------------------------------------------------
-
 ## 💡 Current Learning & Interests
 
 - Advanced System Design
@@ -259,11 +208,11 @@ alt="GitHub Activity Graph" />
 
 ------------------------------------------------------------------------
 
-### ⭐ Thanks for visiting my profile!
+## 📫 Connect With Me
 
-If you find my projects useful, feel free to ⭐ star the repositories.
-
-**Let’s build scalable and reliable software together. 🚀**
+- 💼 LinkedIn: https://www.linkedin.com/in/rajdeo-kumar-40173132
+- 📧 Email: rajdeo.kumar516@gmail.com
+- 🌐 Portfolio: [My Portfolio](https://example.com)
 <!--
 **rajdeo-kumar/rajdeo-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
