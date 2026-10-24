@@ -240,7 +240,7 @@ alt="GitHub Activity Graph" />
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [[Connect with me on LinkedIn](https://www.linkedin.com/)](https://www.linkedin.com/in/rajdeo-kumar-40173132/?isSelfProfile=true)
+- 💼 LinkedIn: https://www.linkedin.com/in/rajdeo-kumar-40173132
 - 📧 Email: rajdeo.kumar516@gmail.com
 - 🌐 Portfolio: [My Portfolio](https://example.com)
 
