@@ -1,5 +1,5 @@
 ## Hi there 👋 I 'm Rajdeo Kumar
-### 🚀 Senior Software Engineer \| Technical Lead \| Backend & Cloud Engineer
+###                              🚀 Senior Software Engineer \| Technical Lead \| Backend & Cloud Engineer
 
 Build scalable, production-ready distributed systems using Java | Python | Spring Boot | Microservices | Cloud and DevOps technologies.
 
